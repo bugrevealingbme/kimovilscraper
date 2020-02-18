@@ -1,0 +1,162 @@
+BrandBrand
+Motorola
+ReleaseDateRelease date
+August 2019, <span>3 days ago</span>
+ReleaseDateState
+On Sale
+StructureSize
+71.2 mm <b class="dot">•</b> 160.1 mm <b class="dot">•</b> 9.2 mm
+StructureWeight
+176 g
+StructureAspect Ratio
+21:9
+StructureUsable surface
+81 %
+StructureMaterials
+P2i Nano coating, Plastic
+StructureResistance certificates (dust, water)
+IP52, IPX2
+StructureColors
+Blue, Cyan, White
+ScreenDiagonal
+6.3"
+ScreenType
+LCD IPS
+ScreenResolution
+1080 x 2520 px
+ScreenDensity
+435 ppi <b class="dot">•</b>Very high density
+ScreenAudio
+Dolby Audio, one speaker
+ProcessorModel
+Samsung Exynos 7 Octa 9609
+ProcessorCPU
+4x2.2 GHz ARM Cortex<b class="dot">•</b>A73+ 4x1.7 GHz ARM Cortex<b class="dot">•</b>A53
+ProcessorType
+Octa-Core
+ProcessorFrequency
+2.2 GHz
+Processor64 Bits
+Yes
+GraphicsGPU
+ARM Mali-G72 MP3
+RAMRAM
+4 GB
+RAMType
+LPDDR4X RAM
+AntutuScore
+142.000  Overall performance better than 84% of devices
+StorageCapacity
+128 GB
+StorageType
+null
+StorageSD Slot
+Yes,Slot for SD or second SIM card
+SecurityFingerprint
+Yes, on the side
+SensorsFingerprint
+Yes
+SensorsAccelerometer
+Yes
+SensorsGyroscope
+Yes
+SensorsLight sensor
+Yes
+SensorsMagnetometer
+Yes
+SensorsProximity
+Yes
+SensorsNotifications LED
+LED Notifications
+SensorsCooling system
+No
+RearMain
+RearResolution
+13<span> Mpx</span>
+RearSensor
+Unknown Unknown
+RearType
+CMOS
+RearAperture
+ƒ/ 1.8
+RearPixel size
+null
+RearISO
+null
+RearSecondary
+RearResolution
+12 Mpx
+RearSensor
+null
+RearType
+null
+RearAperture
+ƒ/ 2.2
+RearPixel size
+2.000 µm
+RearISO
+null
+RearFlash
+Dual LED
+RearOptical Stabilisation
+Yes
+RearSlow Motion Video
+Yes<span>, 120 fps</span>
+SelfieMain
+SelfieResolution
+12 Mpx
+SelfieSensor
+null
+SelfieType
+null
+SelfieAperture
+ƒ/ 2.0
+SelfiePixel size
+1.250 µm
+SelfieISO
+null
+Bands4G LTE
+B1<span> (2100)</span>, B3<span> (1800)</span>, B5<span> (850)</span>, B7<span> (2600)</span>, B8<span> (900)</span>, B20<span> (800)</span>, B38<span> (TDD 2600)</span>, B40<span> (TDD 2300)</span>, B41<span> (TDD 2500)</span>
+Bands3G
+B1<span> (2100)</span>, B2<span> (1900)</span>, B5<span> (850)</span>, B8<span> (900)</span>
+Bands2G
+B2<span> (1900)</span>, B3<span> (1800)</span>, B5<span> (850)</span>, B8<span> (900)</span>
+SIMcardType
+Dual SIM Dual Standby (Nano SIM<span> + </span>Nano SIM)
+Wi-FiStandards
+802.11a, 802.11ac, 802.11b, 802.11g, 802.11n, 802.11n 5GHz
+BluetoothVersion
+Bluetooth 5.0LE<span>Low energy consumption</span>
+NavigationSupports
+A-GPS, GLONASS, GPS
+USBCharging
+Yes
+USBMass Storage
+Yes
+USBUSB On-The-Go (OTG)
+Yes
+USBUSB Type C
+Yes
+SARnull
+null
+SARNFC
+Yes
+SARAudio Jack
+Yes
+SARRadio FM
+Yes
+SARComputer sync
+Yes
+SAROTA sync
+Yes
+SARTethering.
+Yes
+SARVoLTE
+Yes
+SARCapacity
+3500 mAh
+SARType
+Li-Ion
+SAROthers
+SoftwareOperating System
+Android 9.0P
